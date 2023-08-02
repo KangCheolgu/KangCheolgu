@@ -1,8 +1,10 @@
-# 개요
+# OverView
 
 <div align = center>
   
 ![KangCheolgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangCheolgu&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangCheolgu&layout=compact&theme=synthwave)
   
 ## AWS address 
   
