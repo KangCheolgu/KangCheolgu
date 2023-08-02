@@ -1,13 +1,12 @@
 ### AWS 주소 
 // 
 <!--
-[<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">](http://13.209.241.109:8080/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trendlmc&hide=html&layout=compact)
--->
+[<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">](http://13.209.241.109:8080/)-->
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangCheolgu&hide=html&layout=compact&theme=highcontrast)
 
 <div align = center>
+  
 ## MainLanguage
 
 <img src="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white">
@@ -26,8 +25,9 @@
 ## Utility_Program
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/DBeaver-2196F3?style=for-the-badge&logo=&logoColor=white" alt="Myeongcheol Im" width="80" height="30">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+
 </div>
