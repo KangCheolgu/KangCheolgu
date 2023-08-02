@@ -1,10 +1,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=KangCheolgu's%20Github&fontSize=60)
 
-# OverView
-
 <div align = center>
   
+# OverView
+ 
 ![KangCheolgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangCheolgu&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangCheolgu&layout=compact&theme=synthwave)
