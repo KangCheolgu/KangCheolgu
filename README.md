@@ -27,7 +27,10 @@
 
 ## ❤️ 최근 관심 Skill & Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+<img src="https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
 
 ### 나의 프로그래밍 타임라인
