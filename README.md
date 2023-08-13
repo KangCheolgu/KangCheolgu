@@ -3,15 +3,21 @@
 
 <div>
 <div align = center>
+  
 # AWS 배포 주소 
+  
 <br><br/>
 <br><br/>
 <br><br/>
-# 클라우드타입 배포 주소 
+  
+# 클라우드타입 배포 주소
+
 <br><br/>
 <br><br/>
 <br><br/>
+  
 ##  ⚒ 주 사용 Skill & Stack
+  
 <br><br/>
 <img src="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -29,7 +35,9 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <br><br/>
+  
 ## ❤️ 최근 관심 Skill & Stack
+
 <br><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/unity-999999?style=for-the-badge&logo=unity&logoColor=white">
@@ -52,12 +60,16 @@
   
 </div>
 <div>
+  
 ### More Info
+
 1993.08.17 생, 현재 경기도 안산시 거주중, 프론트엔드 개발자
 새로운 것에 호기심이 많고 도전을 항상 즐깁니다.
+
 >
 > E-mail: opopqwqw123@gmail.com
 </div>
+
 </div>
 
 
