@@ -1,7 +1,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=KangCheolgu's%20Github&fontSize=60)
 
-<div >
+<div>
 <div align = center>
 # AWS 배포 주소 
 <br><br/>
@@ -50,7 +50,7 @@
   <br><br/>
   <hr/>
   
-<div/>
+</div>
 <div>
 ### More Info
 1993.08.17 생, 현재 경기도 안산시 거주중, 프론트엔드 개발자
